@@ -64,4 +64,3 @@ highlight_name: true
 I am a first-year PhD student at the [Department of Economics at the University of Copenhagen](https://www.economics.ku.dk) and a PhD Resident Fellow at 
 [Danmarks Nationalbank](https://www.nationalbanken.dk/en/research/economists/Pages/Research-Unit-Economists.aspx). My research interests are macro and labor economics, particularly how firms react to aggregate changes in the labor market.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
