@@ -6,7 +6,7 @@ title: Christian Philip Hoeck
 superuser: true
 
 # Role/position/tagline
-role: PhD in Economics
+role: PhD student in Economics
 
 # Organizations/Affiliations to show in About widget
 organizations:
