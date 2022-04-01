@@ -22,18 +22,6 @@ interests:
 - Labor economics
 - Search & Matching models
 
-# Education to show in About widget
-education:
-  courses:
-  - course: PhD in Economics
-    institution: University of Copenhagen
-    year: since 2021
-  - course: MSc in Economics
-    institution: University of Copenhagen
-    year: 2020
-  - course: BSc in MSc in Economics
-    institution: University of Copenhagen
-    year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
