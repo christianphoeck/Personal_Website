@@ -18,4 +18,4 @@ Work in progress
 ### Wage effects of labor market tightness
 
 
-I provide new microeconometric estimates of the effect of labor market tightness on wages at the firm level. Using Danish data on vacancies and unemployment at the occupational level and firm data on the occupational composition of employees, I construct firm-specific measures of labor market tightness. Using this measure, I find a positive effect on wages in response to changes in tightness. The results are in line with the qualitative implications of the canonical search and matching model of the labor market.
+I provide new microeconometric estimates of the effect of labor market tightness on wages at the firm level. Using Danish data on vacancies and unemployment at the occupational level and firm data on the occupational composition of employees, I construct firm-specific measures of labor market tightness. Using this measure, I find a positive effect on wages in response to changes in tightness. The results are in line with the qualitative implications of the canonical search and matching model of the labor market. ([*Draft available here*](uploads/Wage_effects_of_tightness_DRAFT_CHOECK.pdf))
